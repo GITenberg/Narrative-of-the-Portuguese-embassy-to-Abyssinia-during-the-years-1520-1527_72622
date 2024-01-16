@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '39352'
     url: http://www.gutenberg.org/2009/agents/39352
     wikipedia: https://en.wikipedia.org/wiki/Henry_Stanley,_3rd_Baron_Stanley_of_Alderley
+covers:
+- cover_type: archival
+  image_path: 72622-h/images/cover.jpg
 creator:
   author:
     agent_name: Álvares, Francisco
     gutenberg_agent_id: '56749'
     url: http://www.gutenberg.org/2009/agents/56749
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72622#Narrative-of-the-Portuguese-embassy-to-Abyssinia-during-the-years-1520-1527
 gutenberg_issued: '2024-01-04'
 gutenberg_type: Text
 identifiers:
